@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 ## Senior Mobile & Web & Blockchain Developer.
 
 I am a full stack web & blockchain developer having rich experience in blockchain area.
-I had already built so many blockchain platforms are based on eth, bsc, solana etc.
+I had already built so many blockchain platforms such as swap sites, staking sites, and NFT minting sites based on eth, bsc, solana etc.
+<br />
+If you have a problem with blockchain, please contact me anytime!
 
 ### Connect with me:
 
