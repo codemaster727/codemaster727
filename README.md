@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Alan115-skyhand/Alan115-skyhand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,13 +16,12 @@ Here are some ideas to get you started:
 
 ## Senior Mobile & Web Developer.
 
-- 🔭 I'm a full time developer.
-- 🌱 I'm a Software Engineer, specialized in Javascript,java,swift.
+- 🔭 I'm a full time developer for web and blockchain.
+- 🌱 I'm a Software Engineer, specialized in Javascript, typescript, solidity.
 
 ### Connect with me:
 
-[<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.2347562141623615]
-[<img align="left" alt="social-media-profile | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> +380636763691]
+[<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.fffd574a4950611c]
 <br />
 
 ### Languages and Tools:
