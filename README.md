@@ -25,7 +25,7 @@ If you have a problem with blockchain, please contact me anytime!
 
 [<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.fffd574a4950611c]
 <br />
-- 📝 Email : starskyhand@gmail.com
+- 📝 Email : ryo.yamashiro.dev@gmail.com
 
 
  <div>
