@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I am a full stack web & blockchain developer having rich experience in blockchain area.
 I had already built so many blockchain platforms such as swap sites, staking sites, and NFT minting sites based on eth, bsc, solana etc.
 <br />
-If you have a problem with blockchain, please contact me anytime!
+If you have a problem with blockchain, please contact me at anytime!
 
 ### Connect with me:
 
