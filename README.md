@@ -14,18 +14,20 @@ Here are some ideas to get you started:
 -->
 ### Hi there. 👋
 
-## Senior Mobile & Web & Blockchain Developer.
+## Senior Web & Blockchain Developer.
 
-I am a full stack web & blockchain developer having rich experience in blockchain area.
-I had already built so many blockchain platforms such as swap sites, staking sites, and NFT minting sites based on eth, bsc, solana etc.
+I am a full stack web & blockchain developer having rich experience in web and blockchain area.
+Had already built so many blockchain platforms such as swap sites, staking sites, and NFT minting sites based on eth, bsc, solana etc.
 <br />
-If you have a problem with blockchain, please contact me at anytime!
+If you have a problem with web or blockchain, please contact me at anytime!
 
 ### Connect with me:
 
-[<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.fffd574a4950611c]
+<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.fffd574a4950611c
 <br />
-- 📝 Email : ryo.yamashiro.dev@gmail.com
+📝 Email : ryo.yamashiro.dev@gmail.com
+telegram : https://t.me/StarSkyhand
+discord : https://discord.gg/VCpWpmtf
 
 
  <div>
