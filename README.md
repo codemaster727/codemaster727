@@ -27,7 +27,7 @@ If you have a problem with web or blockchain, please contact me at anytime!
 <br />
 📝 Email : ryo.yamashiro.dev@gmail.com
 <br />
-telegram : https://t.me/StarSkyhand
+![image](https://user-images.githubusercontent.com/81818939/200703483-4decbc8d-9ad0-419d-8d05-b52a21d91513.png) telegram : https://t.me/StarSkyhand
 <br />
 discord : https://discord.gg/VCpWpmtf
 
