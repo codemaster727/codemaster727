@@ -29,7 +29,7 @@ If you have a problem with web or blockchain, please contact me at anytime!
 <br />
 <img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111813.png" /> telegram : https://t.me/StarSkyhand
 <br />
-<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" /> discord : https://discord.gg/VCpWpmtf
+<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn-icons-png.flaticon.com/512/3670/3670325.png" /> discord : https://discord.gg/VCpWpmtf
 
 
  <div>
