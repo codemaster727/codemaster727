@@ -24,14 +24,6 @@ If you have a problem with web or blockchain, please contact me at anytime!
 ### Connect with me:
 
 <img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> https://join.skype.com/invite/yyJkgfU4PTZe
-
-<!-- <img align="left" alt="social-media-profile | Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/725/725643.png" />  -->
-
-<img align="left" alt="social-media-profile | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111710.png" /> https://t.me/StarSkyhand
-
-<img align="left" alt="social-media-profile | Discord" width="22px" src="https://cdn-icons-png.flaticon.com/512/3670/3670325.png" /> https://discord.gg/VCpWpmtf
-
-
  <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
 </div>
