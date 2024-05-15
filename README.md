@@ -16,10 +16,16 @@ Here are some ideas to get you started:
 
 ## Senior Web & Blockchain Developer.
 
-I am a full stack web & blockchain developer having rich experience in web and blockchain area.
-Had already built so many blockchain platforms such as swap sites, staking sites, and NFT minting sites based on eth, bsc, solana etc.
+I am a full-stack web and blockchain developer with extensive experience in both fields.
 <br />
-If you have a problem with web or blockchain, please contact me at anytime!
+I have a proven track record of building high-quality blockchain platforms, including swap sites, staking sites, and NFT minting sites based on Ethereum, Binance Smart Chain, Solana, and other popular blockchains.
+
+My expertise spans both front-end and back-end development, allowing me to create seamless and user-friendly interfaces while ensuring robust and secure functionality on the blockchain.
+
+I am passionate about innovation and constantly seeking new challenges to push the boundaries of web and blockchain development.
+
+<br />
+If you're facing any challenges in these areas, don't hesitate to reach out to me anytime. I'm always happy to help and share my knowledge.
 
 ### Connect with me:
 
