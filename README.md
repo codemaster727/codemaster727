@@ -30,7 +30,7 @@ If you're facing any challenges in these areas, don't hesitate to reach out to m
 
 <img align="left" alt="social-media-profile | Skype" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg" /> https://join.skype.com/invite/yyJkgfU4PTZe
  <div padding="16px" margin="16px">
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="420" height="280" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="400" height="250" />
 </div>
 
 💗 **My Favorites Techs:**
