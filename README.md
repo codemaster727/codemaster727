@@ -29,11 +29,13 @@ If you're facing any challenges in these areas, don't hesitate to reach out to m
 ### Connect with me:
 
 <img align="left" alt="social-media-profile | Skype" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg" /> https://join.skype.com/invite/yyJkgfU4PTZe
- <div padding="16px" margin="16px">
+ <div padding="16px">
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="400" height="250" />
 </div>
 
+<br/>
 💗 **My Favorites Techs:**
+<br/>
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
@@ -55,7 +57,10 @@ If you're facing any challenges in these areas, don't hesitate to reach out to m
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 
+<br/>
+
 ### Languages and Tools:
+
 <div style="margin-top: 36px">
 <img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
