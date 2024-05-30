@@ -56,7 +56,7 @@ If you're facing any challenges in these areas, don't hesitate to reach out to m
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 
 ### Languages and Tools:
-<div>
+<div style="margin-top: 36px">
 <img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="Unix" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
