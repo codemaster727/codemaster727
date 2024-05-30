@@ -1,5 +1,5 @@
 <!--
-**Alan115-skyhand/Alan115-skyhand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**codemaster727/codemaster727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -29,8 +29,8 @@ If you're facing any challenges in these areas, don't hesitate to reach out to m
 ### Connect with me:
 
 <img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> https://join.skype.com/invite/yyJkgfU4PTZe
- <div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
+ <div padding="16px" margin="16px">
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="470" height="320" />
 </div>
 
 💗 **My Favorites Techs:**
