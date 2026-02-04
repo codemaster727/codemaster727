@@ -14,22 +14,17 @@ Here are some ideas to get you started:
 -->
 ### Hi there. 👋
 
-## Senior Web & Blockchain Developer.
+## Senior Full-stack Developer.
 
-I am a full-stack web and blockchain developer with extensive experience in both fields.
+I’m a full-stack web developer with extensive experience building scalable, production-ready applications across both frontend and backend systems.
 
-I have a proven track record of building high-quality blockchain platforms, including swap sites, staking sites, and NFT minting sites based on Ethereum, Binance Smart Chain, Solana, and other popular blockchains.
+My background includes developing high-quality web platforms using JavaScript and PHP, with a strong focus on creating clean, responsive user interfaces and reliable server-side architectures. I’ve worked with modern frontend frameworks as well as backend systems that integrate complex business logic, APIs, and database-driven workflows.
 
-My expertise spans both front-end and back-end development, allowing me to create seamless and user-friendly interfaces while ensuring robust and secure functionality on the blockchain.
+I have solid experience designing and optimizing relational and NoSQL databases, ensuring data integrity, performance, and security—especially in environments that require high reliability and accuracy, such as fintech applications. My work often involves payment integrations, secure authentication flows, and systems that must meet strict performance and compliance requirements.
 
-I am passionate about innovation and constantly seeking new challenges to push the boundaries of web and blockchain development.
+I’m passionate about building efficient, maintainable software and enjoy tackling challenging problems across the full stack. If you’re working on a frontend, backend, or fintech-related project and need someone who can take ownership and deliver, feel free to reach out—I’m always happy to connect and help where I can.
 
-If you're facing any challenges in these areas, don't hesitate to reach out to me anytime. I'm always happy to help and share my knowledge.
-
-### Connect with me:
-
-<img align="left" alt="social-media-profile | Skype" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg" /> https://join.skype.com/invite/yyJkgfU4PTZe
- <div padding="16px">
+<div padding="16px">
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="400" height="250" />
 </div>
 
